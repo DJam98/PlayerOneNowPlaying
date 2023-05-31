@@ -18,3 +18,13 @@ If you don't have your own method, or it doesn't seem to work, here's what I did
 #### Changing the songs
 
 To change the songs and segments, head to the 'info.js' and change the segments and songs to what's on today!
+
+## Contrbutions
+
+If you'd like to help improve some of the features of this project, or you find bugs, please either create an issue (or if you have a solution create a pull request)!
+
+If you're creating a pull request, please clearly explain what you're modifying because I am by no means the best coder on the planet.
+
+## Libaries
+
+The project is currently running on the p5 JavaScript libary.
