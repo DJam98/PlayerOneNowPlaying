@@ -5,10 +5,10 @@ A project made within the scope of my university course, for the purpose of Play
 
 To run this, you must have a way to host a website on a local port (something that looks like 000.0.0.0 with actual numbers).
 If you don't have your own method, or it doesn't seem to work, here's what I did;
-- Download [VS Code](https://code.visualstudio.com)
-- Once VS Code is installed, go to the extensions bar on the left and install the Live Server extension by Ritwick Dey
-- Open the file called 'RunMe.html' in VS Code.
-- In the bottom right corner, there should be a button called 'Go Live'. Press it and you should be launched into your browser. Copy the URL of this page.
+1. Download [VS Code](https://code.visualstudio.com)
+2. Once VS Code is installed, go to the extensions bar on the left and install the Live Server extension by Ritwick Dey
+3. Open the file called 'RunMe.html' in VS Code.
+4. In the bottom right corner, there should be a button called 'Go Live'. Press it and you should be launched into your browser. Copy the URL of this page.
 
 ## Usage
 
