@@ -25,6 +25,8 @@ Currently here are the supported controls
 - `.` Goes to the next section
 - `,` Goes to the previous section `[unsupported]`
 
+Note that you must be interacting with the page within your broadcasting software.
+
 ## Contrbutions
 
 If you'd like to help improve some of the features of this project, or you find bugs, please either create an issue (or if you have a solution create a pull request)!
