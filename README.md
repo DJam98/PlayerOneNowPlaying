@@ -19,6 +19,12 @@ If you don't have your own method, or it doesn't seem to work, here's what I did
 
 To change the songs and segments, head to the 'info.js' and change the segments and songs to what's on today!
 
+## Controls
+
+Currently here are the supported controls
+- `.` Goes to the next section
+- `,` Goes to the previous section `[unsupported]`
+
 ## Contrbutions
 
 If you'd like to help improve some of the features of this project, or you find bugs, please either create an issue (or if you have a solution create a pull request)!
@@ -28,3 +34,8 @@ If you're creating a pull request, please clearly explain what you're modifying 
 ## Libaries
 
 The project is currently running on the p5 JavaScript libary.
+
+## Functions to come / still WIP
+ - Going back to the previous section
+ - Adaptivly changing the font size if it's too big
+ - An option to type a number a go straight to that section
