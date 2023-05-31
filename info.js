@@ -6,7 +6,7 @@ let segment = [];
 
 // Segment Topics
 
-segment [0] = "Intro"
+segment [0] = "Starting Soon"
 segment [1] = "Welcome"
 segment [2] = "New and News"
 segment [3] = "The Playlist"
@@ -23,14 +23,14 @@ segment [10] = "Wrap Up"
 song [1] = "new heartbreak"
 artist [1] = "sad alex"
 
-song [2] = "Feels Like My Hands Are On Fire"
-artist [2] = "salute"
+song [2] = "nice to me"
+artist [2] = "piri, Tommy Villiers"
 
-song [3] = "Wildfire"
-artist [3] = "Jonathan Steingard, Gong Qi, HoyoMix"
+song [3] = "All Of The Time"
+artist [3] = "Jungle"
 
-song [4] = "Pegasus"
-artist [4] = "Ario Parks, ft. Phoebe Bridges"
+song [4] = "Torn"
+artist [4] = "Jakka, Grace Menamie"
 
 song [5] = "Get Down"
 artist [5] = "FJØRA"
@@ -50,7 +50,7 @@ artist [9] = "Qumu"
 song [10] = "Note to Self"
 artist [10] = "Rahill"
 
-song [11] = "Main Theme from Tears of the Kingdom"
+song [11] = "Colgera Battle"
 artist [11] = "Nintendo"
 
 song [12] = "Through my Teeth"
@@ -62,8 +62,8 @@ artist [13] = "Ramsey"
 song [14] = "She's on Fire"
 artist [14] = "Strange Ranger"
 
-song [15] = "Who's Ready for Tomorrow"
-artist [15] = "Rat BOY, IBDY"
+song [15] = "Snake Eater"
+artist [15] = "Cythia Harrell"
 
 song [16] = "Just Cool"
 artist [16] = "Obongjayar"
@@ -79,5 +79,5 @@ artist [19] = "STVN, Palm City"
 
 // End of Show
 
-song [20] = "Catch Us Again Next Week"
-artist [20] = "Every Monday 8pm AEST"
+song [20] = "See Us Again Next Week"
+artist [20] = "Mondays 8pm AEST"
