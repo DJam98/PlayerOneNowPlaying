@@ -10,77 +10,77 @@ segment [0] = "Starting Soon"
 segment [1] = "Welcome"
 segment [2] = "New and News"
 segment [3] = "The Playlist"
-segment [4] = "A Local 100 Player Battle Royale?"
+segment [4] = "Are You Done Yet?"
 segment [5] = "The Checkpoint"
-segment [6] = "Mario Mario Mario"
-segment [7] = "Issue #2023"
-segment [8] = "Issue #2023"
-segment [9] = "Rapid Review"
+segment [6] = "After the break…"
+segment [7] = "Too Many Perks"
+segment [8] = "One More To Go"
+segment [9] = "Return Of THE QUIZ"
 segment [10] = "Wrap Up"
 
 // Songs and Artists
 
-song [1] = "vs. Sayu"
-artist [1] = "James Landino, Nikki Simmons"
+song [1] = "Fineshrine"
+artist [1] = "Purity Ring"
 
-song [2] = "sunsets"
-artist [2] = "Kee’ahn"
+song [2] = "First Glance"
+artist [2] = "Squid The Kid, Damn Dib"
 
-song [3] = "Connected (Yours Forever)"
-artist [3] = "Hydelic"
+song [3] = "The Morn A Thousand Rose Bring"
+artist [3] = "HOYO-MIX"
 
-song [4] = "All The Choices"
-artist [4] = "Skating Polly"
+song [4] = "Tied Up"
+artist [4] = "Genesis Uwusu"
 
-song [5] = "Playground"
-artist [5] = "Bea Miller"
+song [5] = "Welcome Horizons"
+artist [5] = "Qumu"
 
-song [6] = "Motion"
-artist [6] = "King IV"
+song [6] = "Really You"
+artist [6] = "Serebii"
 
-song [7] = "You Can Get It"
-artist [7] = "Arkells, K.Flay"
+song [7] = " Boogie"
+artist [7] = "Tony Romera, CASUAL"
 
-song [8] = "Brat"
-artist [8] = "Dusty"
+song [8] = "the prom"
+artist [8] = "glaive"
 
-song [9] = "Hero"
-artist [9] = "Martin Garrix, JVKE"
+song [9] = "Quema"
+artist [9] = "Sotomayor"
 
-song [10] = "Feel Alive"
-artist [10] = "Cat & Calmell"
+song [10] = "SOBER"
+artist [10] = "SIPHO."
 
-song [11] = "Ride or Fry"
-artist [11] = "Octoplush"
+song [11] = "Koopa Cape"
+artist [11] = "Nintendo"
 
-song [12] = "Fader"
-artist [12] = "Róisín Murphy, DJ Koze"
+song [12] = "I Really Want It (Danny DeVito)"
+artist [12] = "Evie Irie"
 
-song [13] = "Die For You"
-artist [13] = "Grabbitz, VALORANT"
+song [13] = "Wii Shop (SNES Remix)"
+artist [13] = "DJ Cutman, Buttonmasher"
 
-song [14] = "Highway"
-artist [14] = "Lewis OfMan, Empress Of"
+song [14] = "Do It So Good"
+artist [14] = "WARGASM"
 
-song [15] = "Não Sei Parar"
-artist [15] = "Bhaskar, Afterclapp"
+song [15] = "Awake"
+artist [15] = "Lena Raine"
 
-song [16] = "Where My Asians At?!"
-artist [16] = "Reshma"
+song [16] = "does it get boring"
+artist [16] = "bella armor"
 
-song [17] = "Reflection - Centre of the Earth Mix"
-artist [17] = "Jukio Kallio"
+song [17] = "Steal the Show"
+artist [17] = "Lauv"
 
-song [18] = "I Don’t Hear You Anymore"
-artist [18] = "The Money War"
+song [18] = "11:11"
+artist [18] = "LUCI"
 
-song [19] = "Back One Day (Outro Song)"
-artist [19] = "TheFatRat, NEFFEX"
+song [19] = "sunsets"
+artist [19] = "Kee’ahn"
 
 // End of Show
 
-// song [20] = "See Us Again Next Week"
-// artist [20] = "Mondays 8pm AEST"
+song [20] = "See Us Again Next Week"
+artist [20] = "Mondays 8pm AEST"
 
-song [20] = "We'll Be Back For Season Three"
-artist [20] = "July 10th"
+// song [20] = "We'll Be Back For Season Three"
+// artist [20] = "July 10th"
