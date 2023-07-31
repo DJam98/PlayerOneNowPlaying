@@ -10,72 +10,72 @@ segment [0] = "Starting Soon"
 segment [1] = "Welcome"
 segment [2] = "New and News"
 segment [3] = "The Playlist"
-segment [4] = "Are You Done Yet?"
+segment [4] = "Scammer Gets Scammed"
 segment [5] = "The Checkpoint"
-segment [6] = "After the break…"
-segment [7] = "Too Many Perks"
-segment [8] = "One More To Go"
-segment [9] = "Return Of THE QUIZ"
+segment [6] = "A Win-Win Scenario"
+segment [7] = "Players of the Game"
+segment [8] = "Hearing in Full Colour"
+segment [9] = "The Quiz"
 segment [10] = "Wrap Up"
 
 // Songs and Artists
 
-song [1] = "Fineshrine"
-artist [1] = "Purity Ring"
+song [1] = "Coming Alive"
+artist [1] = "Vo Williams, Boslen"
 
-song [2] = "First Glance"
-artist [2] = "Squid The Kid, Damn Dib"
+song [2] = "IN DIFFERENT CITIES"
+artist [2] = "NAMESAKE, Jewel Owusu"
 
-song [3] = "The Morn A Thousand Rose Bring"
-artist [3] = "HOYO-MIX"
+song [3] = "Benevolence"
+artist [3] = "Aaron Hibell"
 
-song [4] = "Tied Up"
-artist [4] = "Genesis Uwusu"
+song [4] = "ur no good"
+artist [4] = "Ella Gilbert"
 
-song [5] = "Welcome Horizons"
+song [5] = "Daisy Circuit"
 artist [5] = "Qumu"
 
-song [6] = "Really You"
-artist [6] = "Serebii"
+song [6] = "Silence"
+artist [6] = "Ama Lou"
 
-song [7] = " Boogie"
-artist [7] = "Tony Romera, CASUAL"
+song [7] = "Padam Padam"
+artist [7] = "Kylie Minogue"
 
-song [8] = "the prom"
-artist [8] = "glaive"
+song [8] = "Dreaming"
+artist [8] = "Mal de Mer"
 
-song [9] = "Quema"
-artist [9] = "Sotomayor"
+song [9] = "Scared"
+artist [9] = "SABAI, Claire Rudgely"
 
-song [10] = "SOBER"
-artist [10] = "SIPHO."
+song [10] = "Tap Out"
+artist [10] = "Telopia"
 
-song [11] = "Koopa Cape"
-artist [11] = "Nintendo"
+song [11] = "Right There, Ride On"
+artist [11] = "Awedecai"
 
-song [12] = "I Really Want It (Danny DeVito)"
-artist [12] = "Evie Irie"
+song [12] = "Dream"
+artist [12] = "Strange Ranger"
 
-song [13] = "Wii Shop (SNES Remix)"
-artist [13] = "DJ Cutman, Buttonmasher"
+song [13] = "Get To Know You"
+artist [13] = "DEXTER KING, Aviella"
 
-song [14] = "Do It So Good"
-artist [14] = "WARGASM"
+song [14] = "O.T.F (On The Floor)"
+artist [14] = "Honeydrip"
 
-song [15] = "Awake"
-artist [15] = "Lena Raine"
+song [15] = "First Steps"
+artist [15] = "The Icarus Kid"
 
-song [16] = "does it get boring"
-artist [16] = "bella armor"
+song [16] = "R10"
+artist [16] = "Miso Extra"
 
-song [17] = "Steal the Show"
-artist [17] = "Lauv"
+song [17] = "What’s Up Danger"
+artist [17] = "Blackway, Black Caviar"
 
-song [18] = "11:11"
-artist [18] = "LUCI"
+song [18] = "Stay or Go"
+artist [18] = "Claudia Forever"
 
-song [19] = "sunsets"
-artist [19] = "Kee’ahn"
+song [19] = "Cynical"
+artist [19] = "Emei"
 
 // End of Show
 
