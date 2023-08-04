@@ -630,15 +630,15 @@ function transitionMovement (){
 
 // Detect when the keys are pressed
 function keyReleased(){
-    if (segmentPosition > 0){
-        if (key === ','){
-            segmentPosition = segmentPosition - 1
-            transitionEvent = true
-            segmentIncrease = true
-            fromWhite = 255
-            fromGrey = 169
-        }
-    }
+    // if (segmentPosition > 0){
+    //     if (key === ','){
+    //         segmentPosition = segmentPosition - 1
+    //         transitionEvent = true
+    //         segmentIncrease = true
+    //         fromWhite = 255
+    //         fromGrey = 169
+    //     }
+    // }
 
     if (segmentPosition < 30){
         if (key === '.'){
@@ -649,5 +649,4 @@ function keyReleased(){
             fromGrey = 169
         }
     }
-
 }
