@@ -2,7 +2,7 @@ let song = [];
 let artist = [];
 let segment = [];
 
-// 2023 | Season 2 | Week 7
+// 2023 | Season 3 | Week 4
 
 // Segment Topics
 
@@ -10,72 +10,72 @@ segment [0] = "Starting Soon"
 segment [1] = "Welcome"
 segment [2] = "New and News"
 segment [3] = "The Playlist"
-segment [4] = "Scammer Gets Scammed"
+segment [4] = "LIVE Review"
 segment [5] = "The Checkpoint"
-segment [6] = "A Win-Win Scenario"
-segment [7] = "Players of the Game"
-segment [8] = "Hearing in Full Colour"
+segment [6] = "Hearing in Full Colour"
+segment [7] = "The Skill Gap"
+segment [8] = "Gold Has Faded"
 segment [9] = "The Quiz"
 segment [10] = "Wrap Up"
 
 // Songs and Artists
 
-song [1] = "Coming Alive"
-artist [1] = "Vo Williams, Boslen"
+song [1] = "Joypunks"
+artist [1] = "Big Wild"
 
-song [2] = "IN DIFFERENT CITIES"
-artist [2] = "NAMESAKE, Jewel Owusu"
+song [2] = "rats in my walls"
+artist [2] = "ratbag"
 
-song [3] = "Benevolence"
-artist [3] = "Aaron Hibell"
+song [3] = "Tentacle To The Metal"
+artist [3] = "Damp Socks, Off the Hook"
 
-song [4] = "ur no good"
-artist [4] = "Ella Gilbert"
+song [4] = "Homesick Honeybee"
+artist [4] = "Becca Mancari"
 
-song [5] = "Daisy Circuit"
-artist [5] = "Qumu"
+song [5] = "Next Chapter"
+artist [5] = "Hydelic"
 
-song [6] = "Silence"
-artist [6] = "Ama Lou"
+song [6] = "Pieta"
+artist [6] = "Locate S,1"
 
-song [7] = "Padam Padam"
-artist [7] = "Kylie Minogue"
+song [7] = "Kass’ Theme"
+artist [7] = "Coffee Date"
 
-song [8] = "Dreaming"
-artist [8] = "Mal de Mer"
+song [8] = "TOMMY"
+artist [8] = "WALKER."
 
-song [9] = "Scared"
-artist [9] = "SABAI, Claire Rudgely"
+song [9] = "Bruyères"
+artist [9] = "Dan Golding"
 
-song [10] = "Tap Out"
-artist [10] = "Telopia"
+song [10] = "Nausea"
+artist [10] = "The Cherubs"
 
-song [11] = "Right There, Ride On"
-artist [11] = "Awedecai"
+song [11] = "Jump Up, Super Star!"
+artist [11] = "Kate Higgens"
 
-song [12] = "Dream"
-artist [12] = "Strange Ranger"
+song [12] = "Cheerleader"
+artist [12] = "Ashnikko"
 
-song [13] = "Get To Know You"
-artist [13] = "DEXTER KING, Aviella"
+song [13] = "Terrified"
+artist [13] = "Despotem, Faithroze"
 
-song [14] = "O.T.F (On The Floor)"
-artist [14] = "Honeydrip"
+song [14] = "Would You Be Mine"
+artist [14] = "MOZË"
 
-song [15] = "First Steps"
-artist [15] = "The Icarus Kid"
+song [15] = "Fire To The Fuse"
+artist [15] = "Jackson Wang, 88rising"
 
-song [16] = "R10"
-artist [16] = "Miso Extra"
+song [16] = "Good Girl"
+artist [16] = " June Jones"
 
-song [17] = "What’s Up Danger"
-artist [17] = "Blackway, Black Caviar"
+song [17] = "Polumnia Omnia"
+artist [17] = "HOYO-MIX"
 
-song [18] = "Stay or Go"
-artist [18] = "Claudia Forever"
+song [18] = "Use It Or Lose It"
+artist [18] = "Lynks"
 
-song [19] = "Cynical"
-artist [19] = "Emei"
+song [19] = "To The Limit"
+artist [19] = "City Wolf, OTTO BLUE"
 
 // End of Show
 
