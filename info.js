@@ -2,7 +2,7 @@ let song = [];
 let artist = [];
 let segment = [];
 
-// 2023 | Season 3 | Week 10
+// 2023 | Season 4 | Week 5
 
 // Segment Topics
 
@@ -10,77 +10,77 @@ segment [0] = "Starting Soon"
 segment [1] = "Welcome"
 segment [2] = "New and News"
 segment [3] = "The Playlist"
-segment [4] = "Even I Don't Know What It Does"
+segment [4] = "The World At Your Feet"
 segment [5] = "The Checkpoint"
-segment [6] = "Cat's 2"
-segment [7] = "I Know What I Do Now"
-segment [8] = "Origin Story"
-segment [9] = "It's My Space!"
+segment [6] = "unBattle Pass"
+segment [7] = "It’s Just Fluff"
+segment [8] = "What’s a Loading Screen?"
+segment [9] = "Games Inside Games"
 segment [10] = "Wrap Up"
 
 // Songs and Artists
 
-song [1] = "High Enough"
-artist [1] = "Grant, Will Jay"
+song [1] = "Connected (Yours Forever)"
+artist [1] = "Hydelic"
 
-song [2] = "She’s On My Mind"
-artist [2] = "Romy"
+song [2] = "Honey"
+artist [2] = "Lee Sugar, Lottie World"
 
-song [3] = "Ripstop & Go"
-artist [3] = "H2Whoa"
+song [3] = "Renegade"
+artist [3] = "99god, C103"
 
-song [4] = "Rehab"
-artist [4] = "d4vd"
+song [4] = "Hey Ma’am"
+artist [4] = "The Grogans"
 
-song [5] = "Shrine Battle Remix"
-artist [5] = "David Bru"
+song [5] = "To the Stars Shining in the Depths"
+artist [5] = "HOYO-MiX"
 
-song [6] = "Liquid Pearl"
-artist [6] = "Delilah Holliday"
+song [6] = "Suspended"
+artist [6] = "Sampha"
 
-song [7] = "Always Been but Never Dreamed"
-artist [7] = "Hydelic"
+song [7] = "GODS"
+artist [7] = "NewJeans"
 
-song [8] = "No Peace"
-artist [8] = "Jada Weazel"
+song [8] = "Angel"
+artist [8] = "Black Pumas"
 
-song [9] = "Reflection (Center of the Earth Mix)"
-artist [9] = "Jukio Kallio"
+song [9] = "Midnight Sun"
+artist [9] = "OTR, Ukiyo"
 
-song [10] = "inferno"
-artist [10] = "yeule"
+song [10] = "Pretty Picture"
+artist [10] = "aleksiah"
 
-song [11] = "Built For This"
-artist [11] = "Black Prez, ft. KID SOMETHING"
+song [11] = "Flip Reset"
+artist [11] = "Kaskade, WILL K"
 
-song [12] = "over my ex"
-artist [12] = "Amelia Moore"
+song [12] = "Favourite Thing to Do"
+artist [12] = "Terry Hunter, Raheem DeVaughn"
 
-song [13] = "Gusty Garden Galaxy"
-artist [13] = "Qumu"
+song [13] = "vs. SAYU"
+artist [13] = "James Landino, Nikki Simmons"
 
-song [14] = "mood swings"
-artist [14] = "Chuey"
+song [14] = "Drain Me!"
+artist [14] = "Towa Bird"
 
-song [15] = "Savior"
-artist [15] = "One True God, VALORANT"
+song [15] = "Swing"
+artist [15] = "EARTHGANG, Benji"
 
-song [16] = "BITE BACK"
-artist [16] = "daine"
+song [16] = "rampage"
+artist [16] = "vanbee, DJ Ss"
 
-song [17] = "The Final Feast"
-artist [17] = "HOYO-MiX"
+song [17] = "Ripstop & Go"
+artist [17] = "H2Woah"
 
-song [18] = "New Casino"
-artist [18] = "flamingo blonde"
+song [18] = "Dang"
+artist [18] = "Caroline Polachek"
 
-song [19] = "Could I Be"
-artist [19] = "Avenza"
+song [19] = "Swim"
+artist [19] = "4 Door Theatre, Tonal Graffiti"
 
 // End of Show
 
-// song [20] = "We'll be back..."
-// artist [20] = "Mondays 8pm AEST"
+song [20] = "We'll be back..."
+artist [20] = "Mondays 8pm AEST"
 
-song [20] = "We'll Be Back For Season Four"
-artist [20] = "September 25th"
+// song [20] = "We'll Be Back For Season Four"
+// artist [20] = "September 25th"
