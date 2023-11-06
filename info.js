@@ -10,72 +10,72 @@ segment [0] = "Starting Soon"
 segment [1] = "Welcome"
 segment [2] = "New and News"
 segment [3] = "The Playlist"
-segment [4] = "The World At Your Feet"
+segment [4] = "A Loop Down Memory Lane"
 segment [5] = "The Checkpoint"
-segment [6] = "unBattle Pass"
-segment [7] = "It’s Just Fluff"
-segment [8] = "What’s a Loading Screen?"
-segment [9] = "Games Inside Games"
+segment [6] = "Xbox Partner Showcase"
+segment [7] = "I’m Gonna Wreck It"
+segment [8] = "SPEC - tacular"
+segment [9] = "And The Nominees Are…"
 segment [10] = "Wrap Up"
 
 // Songs and Artists
 
-song [1] = "Connected (Yours Forever)"
-artist [1] = "Hydelic"
+song [1] = "A Dramatic Irony"
+artist [1] = "HOYO-MiX"
 
-song [2] = "Honey"
-artist [2] = "Lee Sugar, Lottie World"
+song [2] = "CUT MY HEART OUT"
+artist [2] = "daine"
 
-song [3] = "Renegade"
-artist [3] = "99god, C103"
+song [3] = "Standing Tall"
+artist [3] = "David Donges, Jason Chu"
 
-song [4] = "Hey Ma’am"
-artist [4] = "The Grogans"
+song [4] = "Aperleye"
+artist [4] = "RONA."
 
-song [5] = "To the Stars Shining in the Depths"
-artist [5] = "HOYO-MiX"
+song [5] = "Overworld"
+artist [5] = "VGR"
 
-song [6] = "Suspended"
-artist [6] = "Sampha"
+song [6] = "Head Start"
+artist [6] = "Cowboy Malfoy"
 
-song [7] = "GODS"
-artist [7] = "NewJeans"
+song [7] = "T.R.I.B.E"
+artist [7] = "LG (TEAM GENIUS), Black Prez"
 
-song [8] = "Angel"
-artist [8] = "Black Pumas"
+song [8] = "Fish"
+artist [8] = "Angie McMahon"
 
-song [9] = "Midnight Sun"
-artist [9] = "OTR, Ukiyo"
+song [9] = "PARANOIA"
+artist [9] = "HEARTSTEEL, BAEKHYUN, tobi lou, ØZY, Cal Scruby"
 
-song [10] = "Pretty Picture"
-artist [10] = "aleksiah"
+song [10] = "dead end kids"
+artist [10] = "ratbag"
 
-song [11] = "Flip Reset"
-artist [11] = "Kaskade, WILL K"
+song [11] = "Phantom Liberty"
+artist [11] = "Dawid Podsiadto, P.T. Adamczyk"
 
-song [12] = "Favourite Thing to Do"
-artist [12] = "Terry Hunter, Raheem DeVaughn"
+song [12] = "Killing Bee"
+artist [12] = "yunè pinku"
 
-song [13] = "vs. SAYU"
-artist [13] = "James Landino, Nikki Simmons"
+song [13] = "Matchmaking"
+artist [13] = "Embark Studios"
 
-song [14] = "Drain Me!"
-artist [14] = "Towa Bird"
+song [14] = "TELL ME WHAT THE COST IS"
+artist [14] = "Yb."
 
-song [15] = "Swing"
-artist [15] = "EARTHGANG, Benji"
+song [15] = "A Moment Apart"
+artist [15] = "ODESZA"
 
-song [16] = "rampage"
-artist [16] = "vanbee, DJ Ss"
+song [16] = "Badness Issa Habit"
+artist [16] = "Gold Fang"
 
-song [17] = "Ripstop & Go"
-artist [17] = "H2Woah"
+song [17] = "Confronting Myself"
+artist [17] = "Lena Raine"
 
-song [18] = "Dang"
-artist [18] = "Caroline Polachek"
+song [18] = "PARANOIA"
+artist [18] = "SIPHO."
 
-song [19] = "Swim"
-artist [19] = "4 Door Theatre, Tonal Graffiti"
+song [19] = "After Hours"
+artist [19] = "ellis"
 
 // End of Show
 
