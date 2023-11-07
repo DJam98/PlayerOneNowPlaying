@@ -2,7 +2,7 @@ let song = [];
 let artist = [];
 let segment = [];
 
-// 2023 | Season 4 | Week 5
+// 2023 | Season 4 | Week 7
 
 // Segment Topics
 
@@ -12,9 +12,9 @@ segment [2] = "New and News"
 segment [3] = "The Playlist"
 segment [4] = "A Loop Down Memory Lane"
 segment [5] = "The Checkpoint"
-segment [6] = "Xbox Partner Showcase"
+segment [6] = "Novemeber Look Ahead"
 segment [7] = "I’m Gonna Wreck It"
-segment [8] = "SPEC - tacular"
+segment [8] = "un - SPEC - tacular"
 segment [9] = "And The Nominees Are…"
 segment [10] = "Wrap Up"
 
