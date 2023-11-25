@@ -10,72 +10,72 @@ segment [0] = "Starting Soon"
 segment [1] = "Welcome"
 segment [2] = "New and News"
 segment [3] = "The Playlist"
-segment [4] = "A Loop Down Memory Lane"
+segment [4] = "Can you handle it?"
 segment [5] = "The Checkpoint"
-segment [6] = "Novemeber Look Ahead"
-segment [7] = "I’m Gonna Wreck It"
-segment [8] = "un - SPEC - tacular"
-segment [9] = "And The Nominees Are…"
+segment [6] = "Zelda by Sony"
+segment [7] = "An Unbelievable Marriage"
+segment [8] = "Don’t Tell Me How To Race"
+segment [9] = "What Sells Well?"
 segment [10] = "Wrap Up"
 
 // Songs and Artists
 
-song [1] = "A Dramatic Irony"
-artist [1] = "HOYO-MiX"
+song [1] = "In The Ring"
+artist [1] = "Don Jessie"
 
-song [2] = "CUT MY HEART OUT"
-artist [2] = "daine"
+song [2] = "Your Blood"
+artist [2] = "AURORA"
 
-song [3] = "Standing Tall"
-artist [3] = "David Donges, Jason Chu"
+song [3] = "Mirage"
+artist [3] = "One Republic"
 
-song [4] = "Aperleye"
-artist [4] = "RONA."
+song [4] = "Jasmine"
+artist [4] = "Arlo Parks"
 
-song [5] = "Overworld"
-artist [5] = "VGR"
+song [5] = "La vaguelette"
+artist [5] = "HOYO-MiX"
 
-song [6] = "Head Start"
-artist [6] = "Cowboy Malfoy"
+song [6] = "Charlie Don’t Go"
+artist [6] = "Le Shiv"
 
-song [7] = "T.R.I.B.E"
-artist [7] = "LG (TEAM GENIUS), Black Prez"
+song [7] = "Science Is Fun"
+artist [7] = "Mike Morasky"
 
-song [8] = "Fish"
+song [8] = "Kiss Like This"
 artist [8] = "Angie McMahon"
 
-song [9] = "PARANOIA"
-artist [9] = "HEARTSTEEL, BAEKHYUN, tobi lou, ØZY, Cal Scruby"
+song [9] = "Rise"
+artist [9] = "Mako, The Word Alive, The Glitch Mob"
 
-song [10] = "dead end kids"
-artist [10] = "ratbag"
+song [10] = "May I Comply"
+artist [10] = "Heartworms"
 
-song [11] = "Phantom Liberty"
-artist [11] = "Dawid Podsiadto, P.T. Adamczyk"
+song [11] = "Shrine Battle Remix"
+artist [11] = "David Bru"
 
-song [12] = "Killing Bee"
-artist [12] = "yunè pinku"
+song [12] = "easy breasy"
+artist [12] = "Yaeji"
 
-song [13] = "Matchmaking"
-artist [13] = "Embark Studios"
+song [13] = "Madness"
+artist [13] = "Saxsquatch"
 
-song [14] = "TELL ME WHAT THE COST IS"
-artist [14] = "Yb."
+song [14] = "The aisle"
+artist [14] = "PinkPantheress"
 
-song [15] = "A Moment Apart"
-artist [15] = "ODESZA"
+song [15] = "Wii Rainbow Road"
+artist [15] = "Asuka Ohta"
 
-song [16] = "Badness Issa Habit"
-artist [16] = "Gold Fang"
+song [16] = "Wayside"
+artist [16] = "Ninajirachi"
 
-song [17] = "Confronting Myself"
-artist [17] = "Lena Raine"
+song [17] = "Re-OG"
+artist [17] = "Metro Boomin"
 
-song [18] = "PARANOIA"
-artist [18] = "SIPHO."
+song [18] = "Self to Blame"
+artist [18] = "Logic1000, Kayla Blackmon"
 
-song [19] = "After Hours"
-artist [19] = "ellis"
+song [19] = "day & night"
+artist [19] = "Taylor Roche"
 
 // End of Show
 
